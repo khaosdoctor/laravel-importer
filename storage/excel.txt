@@ -1,0 +1,72 @@
+Array
+(
+    [1] => Array
+        (
+            [0] => category
+            [1] => Ferramentas
+        )
+
+    [3] => Array
+        (
+            [0] => lm
+            [1] => name
+            [2] => free_shipping
+            [3] => description
+            [4] => price
+        )
+
+    [4] => Array
+        (
+            [0] => 1001
+            [1] => Furadeira X
+            [2] => 0
+            [3] => Furadeira eficiente X
+            [4] => 100.00
+        )
+
+    [5] => Array
+        (
+            [0] => 1002
+            [1] => Furadeira Y
+            [2] => 1
+            [3] => Furadeira super eficiente Y
+            [4] => 140.00
+        )
+
+    [6] => Array
+        (
+            [0] => 1003
+            [1] => Chave de Fenda X
+            [2] => 0
+            [3] => Chave de fenda simples
+            [4] => 20.00
+        )
+
+    [7] => Array
+        (
+            [0] => 1008
+            [1] => Serra de Marmore
+            [2] => 1
+            [3] => Serra com 1400W modelo 4100NH2Z-127V-L
+            [4] => 399.00
+        )
+
+    [8] => Array
+        (
+            [0] => 1009
+            [1] => Broca Z
+            [2] => 0
+            [3] => Broca simples
+            [4] => 3.90
+        )
+
+    [9] => Array
+        (
+            [0] => 1010
+            [1] => Luvas de Proteção
+            [2] => 0
+            [3] => Luva de proteção básica
+            [4] => 5.60
+        )
+
+)

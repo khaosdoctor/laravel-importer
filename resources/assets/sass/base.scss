@@ -1,0 +1,33 @@
+.navbar {
+  border-radius: 0;
+  background-color: green;
+
+  .navbar-brand {
+    color: #fff;
+  }
+
+  .nav-item:not(.active) > a {
+    color: #fff;
+  }
+}
+
+.main-wrapper {
+  padding: 25px 10px 25px 10px;
+}
+
+.footer-wrapper {
+  height: 30px;
+  background-color: #232323;
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
+  text-align: center;
+
+  .copyright {
+    color: white;
+  }
+}
+
+.pagination-links {
+  text-align: center;
+}
